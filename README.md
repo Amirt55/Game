@@ -1,6 +1,6 @@
 # Some Games in C++
 
 # Welcome to the playroom
-Game 1: Puzzle
-Game 2: Word Cookies
-Game 3: Hangman  
+Game 1: Puzzle   
+Game 2: Word Cookies   
+Game 3: Hangman    
