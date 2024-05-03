@@ -1,5 +1,4 @@
 # Some Games in C++
-
 # Welcome to the playroom
 Game 1: Puzzle   
 Game 2: Word Cookies   
